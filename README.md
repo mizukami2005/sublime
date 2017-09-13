@@ -1,4 +1,4 @@
-# sublime text
+# sublime text settings
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended Bright (SL).tmTheme",
 	"default_encoding": "UTF-8",
